@@ -9,7 +9,7 @@
     padding: 20px;
     margin-top: 164px;
     box-sizing: border-box;
-    height: 420px;
+    height: 400px;
     width: 412px;
     background: #FFFFFF;
     border-radius: 15px;
@@ -42,7 +42,6 @@ hr {
 .title {
     margin-top: 16px;
     margin-bottom: 6px;
-    font-family: sora;
     font-size: 1.125rem;
     background: #FFFFFF;
 }
@@ -69,7 +68,7 @@ hr {
         padding: 20px;
         margin-top: 164px;
         box-sizing: border-box;
-        height: 420px;
+        height: 400px;
         width: 412px;
         background: #FFFFFF;
         border-radius: 15px;
