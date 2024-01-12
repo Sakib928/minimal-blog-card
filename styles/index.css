@@ -63,4 +63,17 @@ hr {
     background: #FFFFFF;
 }
 
-@media screen and (max-width:640px) {}
+@media screen and (max-width:640px) {
+
+    .card {
+        padding: 20px;
+        margin-top: 164px;
+        box-sizing: border-box;
+        height: 420px;
+        width: 412px;
+        background: #FFFFFF;
+        border-radius: 15px;
+        box-shadow: 10px 10px 10px rgba(108, 114, 127, 0.1);
+
+    }
+}
